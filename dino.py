@@ -37,7 +37,6 @@ sleep(3)
 # timing puposes
 past = time()
 
-ayayay
 
 while True:
 
