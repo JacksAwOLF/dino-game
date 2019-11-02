@@ -4,6 +4,7 @@ from datetime import datetime
 from PIL import ImageGrab 
 from time import time
 
+import this and import that
 
 # dimentions and position of the screenshot 
 width = 600
