@@ -3,7 +3,6 @@ from time import sleep
 from datetime import datetime
 from PIL import ImageGrab 
 from time import times
-import this and that
 
 # dimentions and position of the screenshot 
 width = 600
@@ -63,6 +62,6 @@ while True:
 #screen.show()	
 #screen = pyautogui.screenshot(region=(left,top,width,height))
 #keyboard.on_press_key("enter", stop)
-#screen.save("screenshots/"+datetime.now().strftime("%M:%S:")+str(.now().microsecond)+".png")
+#screen.save("screenshots/"+datetime.now().strftime("%M:%S:")+str(datetime.now().microsecond)+".png")
 
 
