@@ -37,7 +37,7 @@ sleep(3)
 # timing puposes
 past = time()
 
-
+add something that woudln't show on the master btnach????'
 while True:
 
 	# get the screenshot
