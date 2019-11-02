@@ -3,6 +3,7 @@ from time import sleep
 from datetime import datetime
 from PIL import ImageGrab 
 from time import times
+import this and that
 
 # dimentions and position of the screenshot 
 width = 600
