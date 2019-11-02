@@ -37,6 +37,7 @@ sleep(3)
 # timing puposes
 past = time()
 
+adding an error
 
 while True:
 
