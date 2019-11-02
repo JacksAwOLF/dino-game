@@ -38,6 +38,9 @@ sleep(3)
 past = time()
 
 
+jibataida
+
+
 while True:
 
 	# get the screenshot
